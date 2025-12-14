@@ -2,6 +2,10 @@
 
 A full-stack web application for managing a sweet shop inventory, built with Express.js (Node.js) backend and React frontend. This project demonstrates Test-Driven Development (TDD), RESTful API design, JWT authentication, and modern frontend development practices.
 
+## 🔗 Live Demo
+
+**Live Link**: [https://assingmentfrontend.vercel.app/login](https://assingmentfrontend.vercel.app/login)  
+
 ## 🎯 Features
 
 ### Backend API
